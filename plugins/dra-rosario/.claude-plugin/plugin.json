@@ -1,0 +1,9 @@
+{
+  "name": "dra-rosario",
+  "version": "2.0.0",
+  "description": "Revisión metodológica de tesis de posgrado (Maestría y Doctorado) con la metodología AQP-CCA: una skill coordinadora y cinco especialistas, uno por capítulo.",
+  "author": {
+    "name": "Dra. Rosario Martínez"
+  },
+  "keywords": ["tesis", "posgrado", "metodología", "investigación", "español"]
+}

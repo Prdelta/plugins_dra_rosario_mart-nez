@@ -1,0 +1,14 @@
+{
+  "name": "dra-rosario",
+  "owner": {
+    "name": "Prdelta"
+  },
+  "plugins": [
+    {
+      "name": "dra-rosario",
+      "source": "./plugins/dra-rosario",
+      "description": "Revisión metodológica de tesis de posgrado con la metodología AQP-CCA (coordinadora + un especialista por capítulo).",
+      "version": "2.0.0"
+    }
+  ]
+}

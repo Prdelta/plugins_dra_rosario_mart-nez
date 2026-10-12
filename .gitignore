@@ -1,0 +1,13 @@
+# Paquetes generados (publícalos como GitHub Release, no en el repo)
+*.zip
+*.skill
+
+# Copia de los archivos originales antes de la limpieza
+_respaldo/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
